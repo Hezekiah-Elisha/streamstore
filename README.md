@@ -2,6 +2,9 @@
 
 A hands-on learning project demonstrating Apache Kafka fundamentals with a simple order management system. This project showcases how to build a Kafka producer and consumer to handle asynchronous order streaming.
 
+## Author
+[HEZEKIAH ELISHA](https://x.com/_hezekiahelisha)
+
 ## 📋 Project Overview
 
 **Streamstore** is a learning application that simulates a basic order processing system using Apache Kafka. It demonstrates core Kafka concepts including:
